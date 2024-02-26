@@ -1,1 +1,1 @@
-# Watershed implementation by union-find IEEE format.
+# Watershed implementation by union-find (IEEE format).
